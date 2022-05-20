@@ -1,0 +1,40 @@
+body {
+  background-image: url("https://www.hipolabor.com.br/blog/wp-content/uploads/2017/05/confira-algumas-dicas-simples-de-bem-estar-para-o-seu-dia-a-dia.jpg");
+  background-size: auto 100vh; 
+  font-family: Arial;
+  height: 100vh;
+}
+
+.menu {
+  background-color: rgb(39, 150, 122);
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+ list-style: none; 
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-subtitle, 
+.site-title {
+  color: rgb(62, 70, 179);
+  text-align: center;
+}
+
+.site-subtitle {
+ font-style: italic;
+}
+  
+
